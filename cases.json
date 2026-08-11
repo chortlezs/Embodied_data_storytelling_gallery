@@ -1,0 +1,2879 @@
+[
+  {
+    "title": "VisConductor: Affect-Varying Widgets for Animated Data Storytelling in Gesture-Aware Augmented Video Presentation",
+    "venue": "ISS",
+    "link": "https://arxiv.org/abs/2406.17986",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Tangible Globes for Data Visualisation in Augmented Reality",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3491102.3517715",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Feeling Data through Movement: Designing Somatic Data Experiences with Dancers",
+    "venue": "TEI ",
+    "link": "https://dl.acm.org/doi/10.1145/3623509.3633371",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Agent",
+        "nan",
+        "nan",
+        "Technical Functions"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Co-gnito: a Participatory Physicalization Game for Urban Mental Mapping",
+    "venue": "C&C ",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3527927.3532803",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Strollytelling: Coupling Animation with Physical Locomotion to Explore Immersive Data Stories",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713132",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions in Augmented Reality",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3714265",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Charting Beyond Sight with DataStory: Sensory Substitution and Storytelling in Visual Literacy Education for Visually Impaired Children",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3613905.3650800#core-collateral-purchase-access",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "RÉCITKIT: A Spatial Toolkit for Designing and Evaluating Human-Centered Immersive Data Narratives",
+    "venue": NaN,
+    "link": "https://arxiv.org/abs/2508.18670",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Be the Data: Embodied Visual Analytics",
+    "venue": "TE-LT",
+    "link": "https://ieeexplore.ieee.org/document/8052517",
+    "year": 2018,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Tangible Stats: An Embodied and Multimodal Platform for Teaching Data and Statistics to Blind and Low Vision Students",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3613905.3650793",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "`A Fair Game?': Using Narrative Sensification and Embodied Metaphors for Awareness",
+    "venue": "TEI",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/3623509.3633375",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Embodied Provenance for Immersive Sensemaking",
+    "venue": NaN,
+    "link": "https://dl.acm.org/doi/epdf/10.1145/3626471",
+    "year": null,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Augmented Chironomia for Presenting Data to Remote Audiences",
+    "venue": "UIST",
+    "link": "https://dl.acm.org/doi/10.1145/3526113.3545614",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Augmented Reality Waste Accumulation Visualizations",
+    "venue": "ACM Journal on Computing and Sustainable Societies",
+    "link": "https://dl.acm.org/doi/10.1145/3636970",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Augmented Dynamic Data Physicalization: Blending Shape-changing Data Sculptures with Virtual Content for Interactive Visualization ",
+    "venue": NaN,
+    "link": "https://mt.inf.tu-dresden.de/cnt/uploads/Engert-2025_Augmented-Dynamic-Data-Phys.pdf",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "STREAM: Exploring the Combination of Spatially-Aware Tablets with Augmented Reality Head-Mounted Displays for Immersive Analytics",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/3411764.3445298",
+    "year": 2021,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Harnessing the power of immersive virtual reality – visualization and analysis of 3D earth science data sets",
+    "venue": "Geo-spatial Information Science",
+    "link": "https://www.researchgate.net/profile/Jiayan-Zhao-2/publication/333686026_Harnessing_the_power_of_immersive_virtual_reality_-_visualization_and_analysis_of_3D_earth_science_data_sets/links/5d0315b14585157d15a954db/Harnessing-the-power-of-immersive-virtual-reality-visualization-and-analysis-of-3D-earth-science-data-sets.pdf?utm_source=chatgpt.com&__cf_chl_tk=LgKE7sItK1X0cK.YPRUXM9l24B_7.F4NwibKeDYEfdc-1766591759-1.0.1.1-y7aEZaVNaSBJz2_HEYZz1SSznWx3jILV.QYLZ02TFwc",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Flow Immersive: A Multiuser, Multidimensional, Multiplatform COVID-19 Visualization Tool",
+    "venue": "Frontiers in Psychology",
+    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.661613/full",
+    "year": 2021,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "A Walk Among the Data: Exploration and Anthropomorphism in Immersive Unit Visualizations",
+    "venue": "IEEE CG&A",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8640251",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "InSituTale: Enhancing Augmented Data Storytelling withPhysical Objects",
+    "venue": "UIST",
+    "link": "https://dl.acm.org/doi/full/10.1145/3746059.3747678",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Narrative Physicalization: Supporting Interactive Engagement With Personal Data",
+    "venue": " IEEE Computer Graphics and Applications",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9200790",
+    "year": 2021,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "Data Tense",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data",
+    "venue": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9756734",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Exploring Collaborative Storytelling Through Performative Avatars in Searching for Us: A Tangible Pervasive Narrative",
+    "venue": "ICIDS: International Conference on Interactive Digital Storytelling",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-031-78453-8_8",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Live Emoji: A Live Storytelling VR System with Programmable Cartoon-Style Emotion Embodiment",
+    "venue": "IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)",
+    "link": "https://ieeexplore.ieee.org/document/8942384",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Designing for Mobile and Immersive Visual Analytics in the Field",
+    "venue": "TVCG",
+    "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805467",
+    "year": 2020,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "“Heart Flows with Zen”: Exploring Multi-Modal Mixed Reality to Promote the Inheritance and Experience of Cultural Heritage",
+    "venue": "TVCG",
+    "link": "https://ieeexplore.ieee.org/document/11192656",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "How Immersion and Self-Avatars in VR Affect Learning Programming and Computational Thinking in Middle School Education",
+    "venue": "TVCG",
+    "link": "https://ieeexplore.ieee.org/document/9762800",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "TactualPlot: Spatializing Data as Sound Using Sensory Substitution for Touchscreen Accessibility",
+    "venue": "TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10308620",
+    "year": 2023,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "MetaRoundWorm: A Virtual Reality Escape Room Game for Learning the Lifecycle and Immune Response to Parasitic Infections",
+    "venue": "TVCG",
+    "link": "https://ieeexplore.ieee.org/document/11193676",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Walking Through Time: A Hybrid Immersive System for Spatial andExpressive Timeline Authoring",
+    "venue": "IEEE VIS",
+    "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11298842",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "TravelGalleria: Supporting Remembrance and Reflection of Travel Experiences through Digital Storytelling in Virtual Reality",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713398",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "From Data to Insights: A Layered Storytelling Approach for Multimodal Learning Analytics",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3313831.3376148",
+    "year": 2020,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Constructing Embodied Algebra by Sketching",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3411764.3445460",
+    "year": 2021,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Human-Computer Counter-Choreographies: Raising Awareness of Data Tracking through Live Coding",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713432",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Exploring the impact of VR and embodiment on environmental literacy",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3544549.3583903",
+    "year": 2023,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "It's Like Being On Stage: Conveying Dancers' Expressiveness Through A Haptic-Installed Contemporary Dance Performance",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713321",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Narrative Structure",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713713",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Hybrid Dandelion: Visual Aesthetics of Performance Through Bionic Mechanism with Data from Biometric Facial Recognition",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3290607.3313289",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Rethinking Breath in VR: A Performative Approach to Enhance User Flow with Bio-sensing Wearable Interfaces.",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3706599.3706698#sec-1",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Interactive Body-Driven Graphics for Augmented Video Performance",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3290605.3300852",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Go-Go Biome: Evaluation of a Casual Game for Gut Health Engagement and Reflection",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3613904.3642742",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage✱",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3544549.3583837",
+    "year": 2023,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Mapping Memory Routes: a Multisensory Interface for Sensorial Urbanism and Critical Heritage Studies",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3027063.3052958",
+    "year": 2017,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "Conversations With The Stressed Body: Facilitating Stress Self-Disclosure Among Adolescent Girls Through An Embodied Approach",
+    "venue": "DIS",
+    "link": "https://dl.acm.org/doi/10.1145/3715336.3735707",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "In my Cycle: Designing Sensory Spaces for Menstrual Awareness through Soma Design",
+    "venue": "DIS",
+    "link": "https://dl.acm.org/doi/10.1145/3715668.3735598",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "From Diagrams to Experience: Data Visceralisation of Ecosystem State-and-Transition Models in Virtual Reality",
+    "venue": "DIS",
+    "link": "https://dl.acm.org/doi/10.1145/3715336.3735774",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Tangible Data: Immersive Data Exploration with Touch",
+    "venue": "SIGGRAPH",
+    "link": "https://dl.acm.org/doi/10.1145/3641517.3664398",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "EDAVS: Emotion-Driven Audiovisual Synthesis Experience",
+    "venue": "SIGGRAPH",
+    "link": "https://dl.acm.org/doi/10.1145/3641234.3671080",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "[sin-gí]:Data Weaving",
+    "venue": "SIGGRAPH",
+    "link": "https://dl.acm.org/doi/10.1145/3641523.3665177",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "TAI_ON: Audible Body and Its Enveloping Rhythm",
+    "venue": "SIGGRAPH Asia 2024 Art Gallery",
+    "link": "https://dl.acm.org/doi/10.1145/3680529.3688958",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Abutting Tokyo: AI-Driven Cognitive Distortion in VR Urban Visualization",
+    "venue": "SIGGRAPH Asia 2024 Art Papers",
+    "link": "https://dl.acm.org/doi/10.1145/3680530.3695437",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Embodied Movement and Generative Media Performance",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "link": "https://dl.acm.org/doi/10.1145/3680530.3695435",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Agent",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Understated Haptics: Physicalization of Tactile Memories through a Co-creative Practice between Human and Nonhuman",
+    "venue": "SIGGRAPH Asia 2027 Art Papers",
+    "link": "https://dl.acm.org/doi/10.1145/3680530.3695458",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "MotionTales: Enhancing Creative Physical Expression in Elementary Education",
+    "venue": "SIGGRAPH Asia 2024 Educator's Forum",
+    "link": "https://dl.acm.org/doi/10.1145/3680533.3697061",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "PoeSpin: A Human-AI Dance to Poetry System for Movement-Based Verse Generation",
+    "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+    "link": "https://dl.acm.org/doi/10.1145/3736781",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "How to Find the Soul of a Sailor",
+    "venue": "SIGGRAPH Art Gallery '26",
+    "link": "https://dl.acm.org/doi/10.1145/3721249.3731634",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "VICINO. Generative expressions of proximity, rhythm, and unspoken connections",
+    "venue": "SA Art Gallery '25",
+    "link": "https://dl.acm.org/doi/10.1145/3757368.3765559",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "On / Off",
+    "venue": "SA Art Gallery '25",
+    "link": "https://dl.acm.org/doi/10.1145/3757368.3765547",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Becoming Mole with \"FeltSight\": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves",
+    "venue": "SA Art Papers '25",
+    "link": "https://dl.acm.org/doi/10.1145/3757369.3767605",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "City of Sparkles: Embodying Cityscape of Human Memories",
+    "venue": "SA Art Papers '25",
+    "link": "https://dl.acm.org/doi/10.1145/3757369.3767604",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "ImaginaBook: Guiding Virtual Child Smiles via Behavioral Cues in XR Picture-Book Storytelling",
+    "venue": "SIGGRAPH Asia 2025 XR",
+    "link": "https://dl.acm.org/doi/10.1145/3761667.3761951",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Between Us: An Interactive Installation for Parent-Child Relationship Visualization Using NFC and Generative Algorithms",
+    "venue": "Proceedings of the SIGGRAPH Asia 2025 Posters",
+    "link": "https://dl.acm.org/doi/10.1145/3757374.3771500",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale",
+        "nan"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "KnitworkVR: Dual-reality Experience through Distributed Sensor-Actuator Networks in the Living Knitwork Pavilion",
+    "venue": "SIGGRAPH Asia 2024 Art Papers",
+    "link": "https://dl.acm.org/doi/10.1145/3680530.3695456",
+    "year": 2024,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Guài: Generative Myths of Machine Perception",
+    "venue": "Proceedings of the SIGGRAPH Asia 2025 Art Gallery",
+    "link": "https://dl.acm.org/doi/10.1145/3757368.3765543",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Biodigital: transform data to experience, beyond data visualization",
+    "venue": "ACM SIGGRAPH 2019 Posters",
+    "link": "https://dl.acm.org/doi/10.1145/3306214.3338542",
+    "year": 2019,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "The Gesture Lives On: A VR-Driven Puppet Performance in Immersive Space",
+    "venue": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters",
+    "link": "https://dl.acm.org/doi/10.1145/3721250.3742981",
+    "year": 2025,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Lights! Dance! Freeze!: Exploring the dance-musical filmic space using embodied search in an interactive installation",
+    "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques, Volume 6, Issue 2",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3597620",
+    "year": 2023,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Restoring Dunhuang Murals: Crafting Cultural Heritage Preservation Knowledge into Immersive Virtual Reality Experience Design",
+    "venue": "International Journal of Human–Computer Interaction",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2232976?needAccess=true#d1e268",
+    "year": 2023,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "Narrative Structure",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Generating Embodied Storytelling and Interactive Experience of China Intangible Cultural Heritage “Hua'er” in Virtual Reality",
+    "venue": "CHI EA",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3491101.3519761",
+    "year": 2022,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "Programming moves: Design and evaluation of applying embodied interaction in virtual environments to enhance computational thinking in middle school students",
+    "venue": "IEEE VR",
+    "link": "https://ieeexplore.ieee.org/abstract/document/7504696",
+    "year": 2016,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "nan",
+        "nan",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "nan",
+        "nan"
+      ]
+    }
+  },
+  {
+    "title": "MarioChart: Autonomous Tangibles as Active Proxy Interfaces for Embodied Casual Data Exploration",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3772318.3791372",
+    "year": 2026,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "nan",
+        "Data Tense"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "Body Role",
+        "Agent",
+        "Mapping Strategy",
+        "nan",
+        "nan",
+        "nan",
+        "Technical Functions",
+        "nan"
+      ],
+      "Who": [
+        "User Scale"
+      ],
+      "Why": [
+        "Creative Task",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale"
+      ]
+    }
+  },
+  {
+    "title": "From Squishing to Meaning: Exploring Data Physicalization Through Children's Embodied Experiences",
+    "venue": "CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3772318.3791846 ",
+    "year": 2026,
+    "illustration": NaN,
+    "dimensions": {
+      "What": [
+        "Data Origin",
+        "nan"
+      ],
+      "How": [
+        "Sensory Channels",
+        "nan",
+        "nan",
+        "Body Engagement Scale",
+        "nan",
+        "Body Role",
+        "Agent",
+        "nan",
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Who": [
+        "nan"
+      ],
+      "Why": [
+        "nan",
+        "nan",
+        "nan",
+        "nan"
+      ],
+      "Where": [
+        "Space Type",
+        "Space Scale",
+        "nan"
+      ]
+    }
+  }
+]
