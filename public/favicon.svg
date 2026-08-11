@@ -1,4 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="32" height="32" fill="#0A0B0D"/>
-<path d="M26.6677 23.7149H8.38057V20.6496H5.33301V8.38159H26.6677V23.7149ZM8.38057 20.6496H23.6201V11.4482H8.38057V20.6496ZM16.0011 16.0021L13.8461 18.1705L11.6913 16.0021L13.8461 13.8337L16.0011 16.0021ZM22.0963 16.0008L19.9414 18.1691L17.7865 16.0008L19.9414 13.8324L22.0963 16.0008Z" fill="#32F08C"/>
+  <rect width="32" height="32" rx="6" fill="#4F46E5"/>
+  <path d="M10 11C10 9.89543 10.8954 9 12 9H20C21.1046 9 22 9.89543 22 11V21C22 22.1046 21.1046 23 20 23H12C10.8954 23 10 22.1046 10 21V11Z" fill="#E0E7FF"/>
+  <path d="M13 13H19M13 16H17M13 19H19" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="21" cy="19" r="3" fill="#818CF8" stroke="#4F46E5" stroke-width="1.5"/>
 </svg>
