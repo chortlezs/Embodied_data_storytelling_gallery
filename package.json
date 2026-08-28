@@ -5,10 +5,11 @@
   "type": "module",
   "homepage": "https://chortlezs.github.io/Embodied_data_storytelling_gallery/",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build:github",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:github": "tsc -b && vite build --base=/Embodied_data_storytelling_gallery/",
     "lint": "eslint .",
     "preview": "vite preview",
     "check": "tsc -b --noEmit"

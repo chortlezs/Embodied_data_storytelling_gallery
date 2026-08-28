@@ -4,7 +4,6 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Embodied_data_storytelling_gallery/',
   build: {
     sourcemap: 'hidden',
   },
