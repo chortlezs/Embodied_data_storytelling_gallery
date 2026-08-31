@@ -3,15 +3,15 @@
     {
       "title": "VisConductor: Affect-Varying Widgets for Animated Data Storytelling in Gesture-Aware Augmented Video Presentation",
       "venue": "ISS",
-      "link": "https://arxiv.org/abs/2406.17986",
+      "link": "papers/visconductor_affect_varying_widgets_for_animated_data_storytelling_in_gesture_aware_augmented_video_presentation.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_1.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -26,8 +26,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -37,15 +37,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -67,33 +65,33 @@
     {
       "title": "Tangible Globes for Data Visualisation in Augmented Reality",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/pdf/10.1145/3491102.3517715",
+      "link": "papers/tangible_globes_for_data_visualisation_in_augmented_reality.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_2.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -102,15 +100,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -134,46 +130,44 @@
     {
       "title": "Feeling Data through Movement: Designing Somatic Data Experiences with Dancers",
       "venue": "TEI",
-      "link": "https://dl.acm.org/doi/10.1145/3623509.3633371",
+      "link": "papers/feeling_data_through_movement_designing_somatic_data_experiences_with_dancers.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_3.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Kinesthetic",
-            "Interoception"
+            "Affective experience"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
             "Semantic"
           ],
           "Narrative Structure": [],
-          "Technical Functions": [
-            "Data Sensing & Acquisition"
-          ]
-        },
-        "Who": {
+          "Technical Support": [
+            "Data Sensing & Capture"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -195,33 +189,33 @@
     {
       "title": "Co-gnito: a Participatory Physicalization Game for Urban Mental Mapping",
       "venue": "C&C",
-      "link": "https://dl.acm.org/doi/pdf/10.1145/3527927.3532803",
+      "link": "papers/co_gnito_a_participatory_physicalization_game_for_urban_mental_mapping.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_4.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -230,15 +224,13 @@
           ],
           "Narrative Structure": [
             "User Directed",
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+          "Technical Support": [
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -261,15 +253,15 @@
     {
       "title": "Strollytelling: Coupling Animation with Physical Locomotion to Explore Immersive Data Stories",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3713132",
+      "link": "papers/strollytelling_coupling_animation_with_physical_locomotion_to_explore_immersive_data_stories.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_5.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -280,14 +272,14 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -296,16 +288,14 @@
           "Narrative Structure": [
             "Linear"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -328,7 +318,7 @@
     {
       "title": "TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions in Augmented Reality",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3714265",
+      "link": "papers/tangiblenet_synchronous_network_data_storytelling_through_tangible_interactions_in_augmented_reality.pdf",
       "year": 2025,
       "illustration": "/images/cases/case_6.png",
       "tags": {
@@ -336,14 +326,14 @@
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
@@ -352,8 +342,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative"
@@ -362,15 +352,13 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -392,21 +380,21 @@
     {
       "title": "Charting Beyond Sight with DataStory: Sensory Substitution and Storytelling in Visual Literacy Education for Visually Impaired Children",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3613905.3650800#core-collateral-purchase-access",
+      "link": "papers/charting_beyond_sight_with_datastory_sensory_substitution_and_storytelling_in_visual_literacy_education_for_visually_impaired_children.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_7.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
@@ -415,8 +403,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -426,14 +414,12 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+          "Technical Support": [
+            "Data Sensing & Capture",
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -455,16 +441,16 @@
     },
     {
       "title": "RÉCITKIT: A Spatial Toolkit for Designing and Evaluating Human-Centered Immersive Data Narratives",
-      "venue": "",
-      "link": "https://arxiv.org/abs/2508.18670",
+      "venue": "HFIA",
+      "link": "papers/recitkit_a_spatial_toolkit_for_designing_and_evaluating_human_centered_immersive_data_narratives.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_8.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -476,13 +462,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -492,16 +478,14 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -525,15 +509,15 @@
     {
       "title": "Be the Data: Embodied Visual Analytics",
       "venue": "TE-LT",
-      "link": "https://ieeexplore.ieee.org/document/8052517",
+      "link": "papers/be_the_data_embodied_visual_analytics.pdf",
       "year": 2018,
-      "illustration": "",
+      "illustration": "/images/cases/case_9.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -543,14 +527,14 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -559,15 +543,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -590,21 +572,21 @@
     {
       "title": "Tangible Stats: An Embodied and Multimodal Platform for Teaching Data and Statistics to Blind and Low Vision Students",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3613905.3650793",
+      "link": "papers/tangible_stats_an_embodied_and_multimodal_platform_for_teaching_data_and_statistics_to_blind_and_low_vision_students.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_10.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
@@ -614,8 +596,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -624,14 +606,12 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+          "Technical Support": [
+            "Data Sensing & Capture",
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -654,15 +634,15 @@
     {
       "title": "`A Fair Game?': Using Narrative Sensification and Embodied Metaphors for Awareness",
       "venue": "TEI",
-      "link": "https://dl.acm.org/doi/epdf/10.1145/3623509.3633375",
+      "link": "papers/a_fair_game_using_narrative_sensification_and_embodied_metaphors_for_awareness.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_11.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -672,13 +652,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -687,13 +667,11 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition"
-          ]
-        },
-        "Who": {
+          "Technical Support": [
+            "Data Sensing & Capture"
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -715,16 +693,16 @@
     },
     {
       "title": "Embodied Provenance for Immersive Sensemaking",
-      "venue": "",
-      "link": "https://dl.acm.org/doi/epdf/10.1145/3626471",
-      "year": null,
-      "illustration": "",
+      "venue": "PACMHCI",
+      "link": "papers/embodied_provenance_for_immersive_sensemaking.pdf",
+      "year": 2023,
+      "illustration": "/images/cases/case_12.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -736,13 +714,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -751,17 +729,15 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -785,15 +761,15 @@
     {
       "title": "Augmented Chironomia for Presenting Data to Remote Audiences",
       "venue": "UIST",
-      "link": "https://dl.acm.org/doi/10.1145/3526113.3545614",
+      "link": "papers/augmented_chironomia_for_presenting_data_to_remote_audiences.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_13.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -808,8 +784,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -818,15 +794,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -847,8 +821,8 @@
     },
     {
       "title": "Augmented Reality Waste Accumulation Visualizations",
-      "venue": "ACM Journal on Computing and Sustainable Societies",
-      "link": "https://dl.acm.org/doi/10.1145/3636970",
+      "venue": "JCSS",
+      "link": "papers/augmented_reality_waste_accumulation_visualizations.pdf",
       "year": 2024,
       "illustration": "/images/cases/case_14.png",
       "tags": {
@@ -856,7 +830,7 @@
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -866,13 +840,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -881,15 +855,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -905,41 +877,41 @@
             "Hybrid"
           ],
           "Space Scale": [
-            "Architectural"
+            "Building"
           ]
         }
       }
     },
     {
       "title": "Augmented Dynamic Data Physicalization: Blending Shape-changing Data Sculptures with Virtual Content for Interactive Visualization",
-      "venue": "",
-      "link": "https://mt.inf.tu-dresden.de/cnt/uploads/Engert-2025_Augmented-Dynamic-Data-Phys.pdf",
+      "venue": "TVCG",
+      "link": "papers/augmented_dynamic_data_physicalization_blending_shape_changing_data_sculptures_with_virtual_content_for_interactive_visualization.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_15.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -948,16 +920,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -981,7 +951,7 @@
     {
       "title": "STREAM: Exploring the Combination of Spatially-Aware Tablets with Augmented Reality Head-Mounted Displays for Immersive Analytics",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/epdf/10.1145/3411764.3445298",
+      "link": "papers/stream_exploring_the_combination_of_spatially_aware_tablets_with_augmented_reality_head_mounted_displays_for_immersive_analytics.pdf",
       "year": 2021,
       "illustration": "/images/cases/case_16.png",
       "tags": {
@@ -989,7 +959,7 @@
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -1001,13 +971,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1016,15 +986,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1047,34 +1015,34 @@
     },
     {
       "title": "Harnessing the power of immersive virtual reality – visualization and analysis of 3D earth science data sets",
-      "venue": "Geo-spatial Information Science",
-      "link": "https://www.researchgate.net/profile/Jiayan-Zhao-2/publication/333686026_Harnessing_the_power_of_immersive_virtual_reality_-_visualization_and_analysis_of_3D_earth_science_data_sets/links/5d0315b14585157d15a954db/Harnessing-the-power-of-immersive-virtual-reality-visualization-and-analysis-of-3D-earth-science-data-sets.pdf?utm_source=chatgpt.com&__cf_chl_tk=LgKE7sItK1X0cK.YPRUXM9l24B_7.F4NwibKeDYEfdc-1766591759-1.0.1.1-y7aEZaVNaSBJz2_HEYZz1SSznWx3jILV.QYLZ02TFwc",
+      "venue": "GEO‑SPAT INF SCI",
+      "link": "papers/harnessing_the_power_of_immersive_virtual_reality_visualization_and_analysis_of_3d_earth_science_data_sets.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_17.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1083,16 +1051,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1114,34 +1080,34 @@
     },
     {
       "title": "Flow Immersive: A Multiuser, Multidimensional, Multiplatform COVID-19 Visualization Tool",
-      "venue": "Frontiers in Psychology",
-      "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.661613/full",
+      "venue": "Front Psychol",
+      "link": "papers/flow_immersive_a_multiuser_multidimensional_multiplatform_covid_19_visualization_tool.pdf",
       "year": 2021,
-      "illustration": "",
+      "illustration": "/images/cases/case_18.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1150,17 +1116,15 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -1186,33 +1150,33 @@
     {
       "title": "A Walk Among the Data: Exploration and Anthropomorphism in Immersive Unit Visualizations",
       "venue": "IEEE CG&A",
-      "link": "https://ieeexplore.ieee.org/abstract/document/8640251",
+      "link": "papers/a_walk_among_the_data_exploration_and_anthropomorphism_in_immersive_unit_visualizations.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_19.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1221,15 +1185,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1252,22 +1214,22 @@
     {
       "title": "InSituTale: Enhancing Augmented Data Storytelling withPhysical Objects",
       "venue": "UIST",
-      "link": "https://dl.acm.org/doi/full/10.1145/3746059.3747678",
+      "link": "papers/insitutale_enhancing_augmented_data_storytelling_withphysical_objects.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_20.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
@@ -1276,8 +1238,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1285,16 +1247,14 @@
           ],
           "Narrative Structure": [
             "User Directed",
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1315,16 +1275,16 @@
     },
     {
       "title": "Narrative Physicalization: Supporting Interactive Engagement With Personal Data",
-      "venue": "IEEE Computer Graphics and Applications",
-      "link": "https://ieeexplore.ieee.org/abstract/document/9200790",
+      "venue": "IEEE CG&A",
+      "link": "papers/narrative_physicalization_supporting_interactive_engagement_with_personal_data.pdf",
       "year": 2021,
-      "illustration": "",
+      "illustration": "/images/cases/case_21.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static",
             "Dynamic"
           ]
@@ -1332,20 +1292,20 @@
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller",
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1355,15 +1315,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1385,23 +1343,23 @@
     },
     {
       "title": "TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data",
-      "venue": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
-      "link": "https://ieeexplore.ieee.org/abstract/document/9756734",
+      "venue": "IEEE VR",
+      "link": "papers/timetables_embodied_exploration_of_immersive_spatio_temporal_data.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_22.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
@@ -1410,8 +1368,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1420,15 +1378,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1451,35 +1407,35 @@
     },
     {
       "title": "Exploring Collaborative Storytelling Through Performative Avatars in Searching for Us: A Tangible Pervasive Narrative",
-      "venue": "ICIDS: International Conference on Interactive Digital Storytelling",
-      "link": "https://link.springer.com/chapter/10.1007/978-3-031-78453-8_8",
+      "venue": "ICIDS",
+      "link": "papers/exploring_collaborative_storytelling_through_performative_avatars_in_searching_for_us_a_tangible_pervasive_narrative.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_23.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1489,11 +1445,9 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": []
-        },
-        "Who": {
+          "Technical Support": [],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -1515,16 +1469,16 @@
     },
     {
       "title": "Live Emoji: A Live Storytelling VR System with Programmable Cartoon-Style Emotion Embodiment",
-      "venue": "IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)",
-      "link": "https://ieeexplore.ieee.org/document/8942384",
+      "venue": "AIVR",
+      "link": "papers/live_emoji_a_live_storytelling_vr_system_with_programmable_cartoon_style_emotion_embodiment.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_24.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -1540,8 +1494,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1552,16 +1506,14 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1584,7 +1536,7 @@
     {
       "title": "Designing for Mobile and Immersive Visual Analytics in the Field",
       "venue": "TVCG",
-      "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805467",
+      "link": "papers/designing_for_mobile_and_immersive_visual_analytics_in_the_field.pdf",
       "year": 2020,
       "illustration": "/images/cases/case_25.png",
       "tags": {
@@ -1592,7 +1544,7 @@
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static",
             "Dynamic"
           ]
@@ -1603,14 +1555,14 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1619,15 +1571,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -1651,15 +1601,15 @@
     {
       "title": "“Heart Flows with Zen”: Exploring Multi-Modal Mixed Reality to Promote the Inheritance and Experience of Cultural Heritage",
       "venue": "TVCG",
-      "link": "https://ieeexplore.ieee.org/document/11192656",
+      "link": "papers/heart_flows_with_zen_exploring_multi_modal_mixed_reality_to_promote_the_inheritance_and_experience_of_cultural_heritage.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_26.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static",
             "Dynamic"
           ]
@@ -1672,14 +1622,14 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1689,17 +1639,15 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -1724,15 +1672,15 @@
     {
       "title": "How Immersion and Self-Avatars in VR Affect Learning Programming and Computational Thinking in Middle School Education",
       "venue": "TVCG",
-      "link": "https://ieeexplore.ieee.org/document/9762800",
+      "link": "papers/how_immersion_and_self_avatars_in_vr_affect_learning_programming_and_computational_thinking_in_middle_school_education.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_27.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -1742,15 +1690,15 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller",
             "Representor"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1760,15 +1708,13 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1790,15 +1736,15 @@
     {
       "title": "TactualPlot: Spatializing Data as Sound Using Sensory Substitution for Touchscreen Accessibility",
       "venue": "TVCG",
-      "link": "https://ieeexplore.ieee.org/document/10308620",
+      "link": "papers/tactualplot_spatializing_data_as_sound_using_sensory_substitution_for_touchscreen_accessibility.pdf",
       "year": 2023,
-      "illustration": "",
+      "illustration": "/images/cases/case_28.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -1813,8 +1759,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1823,13 +1769,11 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1852,15 +1796,15 @@
     {
       "title": "MetaRoundWorm: A Virtual Reality Escape Room Game for Learning the Lifecycle and Immune Response to Parasitic Infections",
       "venue": "TVCG",
-      "link": "https://ieeexplore.ieee.org/document/11193676",
+      "link": "papers/metaroundworm_a_virtual_reality_escape_room_game_for_learning_the_lifecycle_and_immune_response_to_parasitic_infections.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_29.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -1876,8 +1820,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1888,14 +1832,12 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1917,15 +1859,15 @@
     {
       "title": "Walking Through Time: A Hybrid Immersive System for Spatial andExpressive Timeline Authoring",
       "venue": "IEEE VIS",
-      "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11298842",
+      "link": "papers/walking_through_time_a_hybrid_immersive_system_for_spatial_andexpressive_timeline_authoring.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_30.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -1936,14 +1878,14 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -1954,14 +1896,12 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -1983,15 +1923,15 @@
     {
       "title": "TravelGalleria: Supporting Remembrance and Reflection of Travel Experiences through Digital Storytelling in Virtual Reality",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3713398",
+      "link": "papers/travelgalleria_supporting_remembrance_and_reflection_of_travel_experiences_through_digital_storytelling_in_virtual_reality.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_31.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -2003,14 +1943,14 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2020,15 +1960,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2051,15 +1989,15 @@
     {
       "title": "From Data to Insights: A Layered Storytelling Approach for Multimodal Learning Analytics",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3313831.3376148",
+      "link": "papers/from_data_to_insights_a_layered_storytelling_approach_for_multimodal_learning_analytics.pdf",
       "year": 2020,
-      "illustration": "",
+      "illustration": "/images/cases/case_32.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -2069,14 +2007,14 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2085,15 +2023,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2116,15 +2052,15 @@
     {
       "title": "Constructing Embodied Algebra by Sketching",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3411764.3445460",
+      "link": "papers/constructing_embodied_algebra_by_sketching.pdf",
       "year": 2021,
-      "illustration": "",
+      "illustration": "/images/cases/case_33.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": []
+          "Data Dynamics": []
         },
         "How": {
           "Sensory Channels": [
@@ -2137,25 +2073,23 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2177,15 +2111,15 @@
     {
       "title": "Human-Computer Counter-Choreographies: Raising Awareness of Data Tracking through Live Coding",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3713432",
+      "link": "papers/human_computer_counter_choreographies_raising_awareness_of_data_tracking_through_live_coding.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_34.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -2196,30 +2130,28 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2242,15 +2174,15 @@
     {
       "title": "Exploring the impact of VR and embodiment on environmental literacy",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3544549.3583903",
+      "link": "papers/exploring_the_impact_of_vr_and_embodiment_on_environmental_literacy.pdf",
       "year": 2023,
-      "illustration": "",
+      "illustration": "/images/cases/case_35.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -2261,13 +2193,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Affective",
@@ -2276,14 +2208,12 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2307,33 +2237,33 @@
     {
       "title": "It's Like Being On Stage: Conveying Dancers' Expressiveness Through A Haptic-Installed Contemporary Dance Performance",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3713321",
+      "link": "papers/its_like_being_on_stage_conveying_dancers_expressiveness_through_a_haptic_installed_contemporary_dance_performance.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_36.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Spatial displacement"
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2343,14 +2273,12 @@
           "Narrative Structure": [
             "Linear"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2373,33 +2301,33 @@
     {
       "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3706598.3713713",
+      "link": "papers/being_the_creek_mobile_augmented_reality_experience_as_an_invitation_for_exploring_more_than_human_perspectives.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_37.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
-            "Full-body",
-            "Spatial displacement"
+            "Full-body engagement",
+            "Spatial locomotion"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Semantic"
@@ -2408,15 +2336,13 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2440,15 +2366,15 @@
     {
       "title": "Hybrid Dandelion: Visual Aesthetics of Performance Through Bionic Mechanism with Data from Biometric Facial Recognition",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3290607.3313289",
+      "link": "papers/hybrid_dandelion_visual_aesthetics_of_performance_through_bionic_mechanism_with_data_from_biometric_facial_recognition.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_38.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -2462,8 +2388,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2471,17 +2397,15 @@
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2503,33 +2427,33 @@
     {
       "title": "Rethinking Breath in VR: A Performative Approach to Enhance User Flow with Bio-sensing Wearable Interfaces.",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3706599.3706698#sec-1",
+      "link": "papers/rethinking_breath_in_vr_a_performative_approach_to_enhance_user_flow_with_bio_sensing_wearable_interfaces.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_39.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2538,15 +2462,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2568,15 +2490,15 @@
     {
       "title": "Interactive Body-Driven Graphics for Augmented Video Performance",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3290605.3300852",
+      "link": "papers/interactive_body_driven_graphics_for_augmented_video_performance.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_40.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": []
+          "Data Dynamics": []
         },
         "How": {
           "Sensory Channels": [
@@ -2585,13 +2507,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2600,16 +2522,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2631,15 +2551,15 @@
     {
       "title": "Go-Go Biome: Evaluation of a Casual Game for Gut Health Engagement and Reflection",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3613904.3642742",
+      "link": "papers/go_go_biome_evaluation_of_a_casual_game_for_gut_health_engagement_and_reflection.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_41.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -2651,13 +2571,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2666,16 +2586,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2691,7 +2609,7 @@
             "Hybrid"
           ],
           "Space Scale": [
-            "Architectural"
+            "Building"
           ]
         }
       }
@@ -2699,33 +2617,33 @@
     {
       "title": "HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage✱",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3544549.3583837",
+      "link": "papers/heritagesite_ar_an_exploration_game_for_quality_education_and_sustainable_cultural_heritage.pdf",
       "year": 2023,
-      "illustration": "",
+      "illustration": "/images/cases/case_42.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -2734,16 +2652,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2765,22 +2681,22 @@
     {
       "title": "Mapping Memory Routes: a Multisensory Interface for Sensorial Urbanism and Critical Heritage Studies",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/10.1145/3027063.3052958",
+      "link": "papers/mapping_memory_routes_a_multisensory_interface_for_sensorial_urbanism_and_critical_heritage_studies.pdf",
       "year": 2017,
-      "illustration": "",
+      "illustration": "/images/cases/case_43.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
@@ -2790,8 +2706,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
@@ -2800,15 +2716,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -2833,51 +2747,49 @@
     {
       "title": "Conversations With The Stressed Body: Facilitating Stress Self-Disclosure Among Adolescent Girls Through An Embodied Approach",
       "venue": "DIS",
-      "link": "https://dl.acm.org/doi/10.1145/3715336.3735707",
+      "link": "papers/conversations_with_the_stressed_body_facilitating_stress_self_disclosure_among_adolescent_girls_through_an_embodied_appr.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_44.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2903,34 +2815,34 @@
     {
       "title": "In my Cycle: Designing Sensory Spaces for Menstrual Awareness through Soma Design",
       "venue": "DIS",
-      "link": "https://dl.acm.org/doi/10.1145/3715668.3735598",
+      "link": "papers/in_my_cycle_designing_sensory_spaces_for_menstrual_awareness_through_soma_design.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_45.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
@@ -2939,15 +2851,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -2971,15 +2881,15 @@
     {
       "title": "From Diagrams to Experience: Data Visceralisation of Ecosystem State-and-Transition Models in Virtual Reality",
       "venue": "DIS",
-      "link": "https://dl.acm.org/doi/10.1145/3715336.3735774",
+      "link": "papers/from_diagrams_to_experience_data_visceralisation_of_ecosystem_state_and_transition_models_in_virtual_reality.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_46.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -2990,13 +2900,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Semantic"
@@ -3004,15 +2914,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3034,23 +2942,23 @@
     },
     {
       "title": "Tangible Data: Immersive Data Exploration with Touch",
-      "venue": "SIGGRAPH",
-      "link": "https://dl.acm.org/doi/10.1145/3641517.3664398",
+      "venue": "SA",
+      "link": "papers/tangible_data_immersive_data_exploration_with_touch.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_47.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch"
+            "Haptic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction"
@@ -3058,8 +2966,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3068,15 +2976,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3098,16 +3004,16 @@
     },
     {
       "title": "EDAVS: Emotion-Driven Audiovisual Synthesis Experience",
-      "venue": "SIGGRAPH",
-      "link": "https://dl.acm.org/doi/10.1145/3641234.3671080",
+      "venue": "SA",
+      "link": "papers/edavs_emotion_driven_audiovisual_synthesis_experience.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_48.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -3115,7 +3021,7 @@
           "Sensory Channels": [
             "Visual",
             "Auditory",
-            "Interoception"
+            "Affective experience"
           ],
           "Body Engagement Scale": [
             "Micro-interaction"
@@ -3123,25 +3029,23 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3162,23 +3066,23 @@
     },
     {
       "title": "[sin-gí]:Data Weaving",
-      "venue": "SIGGRAPH",
-      "link": "https://dl.acm.org/doi/10.1145/3641523.3665177",
+      "venue": "SA",
+      "link": "papers/sin_gi_data_weaving.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_49.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
@@ -3187,8 +3091,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3197,16 +3101,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3229,16 +3131,16 @@
     },
     {
       "title": "TAI_ON: Audible Body and Its Enveloping Rhythm",
-      "venue": "SIGGRAPH Asia 2024 Art Gallery",
-      "link": "https://dl.acm.org/doi/10.1145/3680529.3688958",
+      "venue": "SA Asia Art Gallery",
+      "link": "papers/tai_on_audible_body_and_its_enveloping_rhythm.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_50.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -3246,7 +3148,7 @@
           "Sensory Channels": [
             "Visual",
             "Auditory",
-            "Interoception"
+            "Affective experience"
           ],
           "Body Engagement Scale": [
             "Micro-interaction"
@@ -3254,8 +3156,8 @@
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3265,15 +3167,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3296,23 +3196,23 @@
     },
     {
       "title": "Abutting Tokyo: AI-Driven Cognitive Distortion in VR Urban Visualization",
-      "venue": "SIGGRAPH Asia 2024 Art Papers",
-      "link": "https://dl.acm.org/doi/10.1145/3680530.3695437",
+      "venue": "SA Asia Art Papers",
+      "link": "papers/abutting_tokyo_ai_driven_cognitive_distortion_in_vr_urban_visualization.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_51.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
@@ -3322,8 +3222,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Semantic"
@@ -3331,15 +3231,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3360,16 +3258,16 @@
     },
     {
       "title": "Embodied Movement and Generative Media Performance",
-      "venue": "SIGGRAPH Asia 2025 Art Papers",
-      "link": "https://dl.acm.org/doi/10.1145/3680530.3695435",
+      "venue": "SA Asia Art Papers",
+      "link": "papers/embodied_movement_and_generative_media_performance.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_52.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -3380,29 +3278,27 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3423,23 +3319,23 @@
     },
     {
       "title": "Understated Haptics: Physicalization of Tactile Memories through a Co-creative Practice between Human and Nonhuman",
-      "venue": "SIGGRAPH Asia 2027 Art Papers",
-      "link": "https://dl.acm.org/doi/10.1145/3680530.3695458",
+      "venue": "SA Asia Art Papers",
+      "link": "papers/understated_haptics_physicalization_of_tactile_memories_through_a_co_creative_practice_between_human_and_nonhuman.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_53.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch"
+            "Haptic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction"
@@ -3447,8 +3343,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3457,15 +3353,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3487,16 +3381,16 @@
     },
     {
       "title": "MotionTales: Enhancing Creative Physical Expression in Elementary Education",
-      "venue": "SIGGRAPH Asia 2024 Educator's Forum",
-      "link": "https://dl.acm.org/doi/10.1145/3680533.3697061",
+      "venue": "SA Asia Educator's Forum",
+      "link": "papers/motiontales_enhancing_creative_physical_expression_in_elementary_education.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_54.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -3506,14 +3400,14 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller",
             "Representor"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3521,19 +3415,17 @@
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3554,16 +3446,16 @@
     },
     {
       "title": "PoeSpin: A Human-AI Dance to Poetry System for Movement-Based Verse Generation",
-      "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
-      "link": "https://dl.acm.org/doi/10.1145/3736781",
+      "venue": "PACMCGIT",
+      "link": "papers/poespin_a_human_ai_dance_to_poetry_system_for_movement_based_verse_generation.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_55.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -3573,13 +3465,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
@@ -3588,16 +3480,14 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3618,16 +3508,16 @@
     },
     {
       "title": "How to Find the Soul of a Sailor",
-      "venue": "SIGGRAPH Art Gallery '26",
-      "link": "https://dl.acm.org/doi/10.1145/3721249.3731634",
+      "venue": "SA Art Gallery",
+      "link": "papers/how_to_find_the_soul_of_a_sailor.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_56.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -3637,13 +3527,13 @@
             "Auditory"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3652,16 +3542,14 @@
           "Narrative Structure": [
             "Linear"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3684,23 +3572,23 @@
     },
     {
       "title": "VICINO. Generative expressions of proximity, rhythm, and unspoken connections",
-      "venue": "SA Art Gallery '25",
-      "link": "https://dl.acm.org/doi/10.1145/3757368.3765559",
+      "venue": "SA Art Gallery",
+      "link": "papers/vicino_generative_expressions_of_proximity_rhythm_and_unspoken_connections.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_57.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
@@ -3710,26 +3598,24 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3752,16 +3638,16 @@
     },
     {
       "title": "On / Off",
-      "venue": "SA Art Gallery '25",
-      "link": "https://dl.acm.org/doi/10.1145/3757368.3765547",
+      "venue": "SA Art Gallery",
+      "link": "papers/on_off.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_58.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static",
             "Dynamic"
           ]
@@ -3769,18 +3655,18 @@
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3789,15 +3675,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -3819,34 +3703,34 @@
     },
     {
       "title": "Becoming Mole with \"FeltSight\": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves",
-      "venue": "SA Art Papers '25",
-      "link": "https://dl.acm.org/doi/10.1145/3757369.3767605",
+      "venue": "SA Art Gallery",
+      "link": "papers/becoming_mole_with_feltsight_hyper_sensitizing_the_surrounding_through_mixed_reality_haptic_proximity_gloves.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_59.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3855,15 +3739,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3879,23 +3761,23 @@
             "Hybrid"
           ],
           "Space Scale": [
-            "Architectural"
+            "Building"
           ]
         }
       }
     },
     {
       "title": "City of Sparkles: Embodying Cityscape of Human Memories",
-      "venue": "SA Art Papers '25",
-      "link": "https://dl.acm.org/doi/10.1145/3757369.3767604",
+      "venue": "SA Art Gallery",
+      "link": "papers/city_of_sparkles_embodying_cityscape_of_human_memories.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_60.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -3907,13 +3789,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3924,16 +3806,14 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -3955,16 +3835,16 @@
     },
     {
       "title": "ImaginaBook: Guiding Virtual Child Smiles via Behavioral Cues in XR Picture-Book Storytelling",
-      "venue": "SIGGRAPH Asia 2025 XR",
-      "link": "https://dl.acm.org/doi/10.1145/3761667.3761951",
+      "venue": "SA Asia  XR",
+      "link": "papers/imaginabook_guiding_virtual_child_smiles_via_behavioral_cues_in_xr_picture_book_storytelling.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_61.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -3980,8 +3860,8 @@
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -3990,15 +3870,13 @@
           "Narrative Structure": [
             "Linear"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4020,23 +3898,23 @@
     },
     {
       "title": "Between Us: An Interactive Installation for Parent-Child Relationship Visualization Using NFC and Generative Algorithms",
-      "venue": "Proceedings of the SIGGRAPH Asia 2025 Posters",
-      "link": "https://dl.acm.org/doi/10.1145/3757374.3771500",
+      "venue": "SA Posters",
+      "link": "papers/between_us_an_interactive_installation_for_parent_child_relationship_visualization_using_nfc_and_generative_algorithms.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_62.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch"
+            "Haptic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction"
@@ -4044,26 +3922,24 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Affective",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single",
-            "Multi"
+            "Single user",
+            "Multiple users"
           ]
         },
         "Why": {
@@ -4086,51 +3962,49 @@
     },
     {
       "title": "KnitworkVR: Dual-reality Experience through Distributed Sensor-Actuator Networks in the Living Knitwork Pavilion",
-      "venue": "SIGGRAPH Asia 2024 Art Papers",
-      "link": "https://dl.acm.org/doi/10.1145/3680530.3695456",
+      "venue": "SA Asia Art Papers",
+      "link": "papers/knitworkvr_dual_reality_experience_through_distributed_sensor_actuator_networks_in_the_living_knitwork_pavilion.pdf",
       "year": 2024,
-      "illustration": "",
+      "illustration": "/images/cases/case_63.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory",
             "Kinesthetic",
-            "Interoception"
+            "Affective experience"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": []
         },
         "Why": {
@@ -4152,16 +4026,16 @@
     },
     {
       "title": "Guài: Generative Myths of Machine Perception",
-      "venue": "Proceedings of the SIGGRAPH Asia 2025 Art Gallery",
-      "link": "https://dl.acm.org/doi/10.1145/3757368.3765543",
+      "venue": "SA Art Gallery",
+      "link": "papers/guai_generative_myths_of_machine_perception.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_64.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -4173,13 +4047,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4187,18 +4061,16 @@
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4221,16 +4093,16 @@
     },
     {
       "title": "Biodigital: transform data to experience, beyond data visualization",
-      "venue": "ACM SIGGRAPH 2019 Posters",
-      "link": "https://dl.acm.org/doi/10.1145/3306214.3338542",
+      "venue": "SA Posters",
+      "link": "papers/biodigital_transform_data_to_experience_beyond_data_visualization.pdf",
       "year": 2019,
-      "illustration": "",
+      "illustration": "/images/cases/case_65.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -4240,13 +4112,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4256,15 +4128,13 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4286,17 +4156,17 @@
     },
     {
       "title": "The Gesture Lives On: A VR-Driven Puppet Performance in Immersive Space",
-      "venue": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters",
-      "link": "https://dl.acm.org/doi/10.1145/3721250.3742981",
+      "venue": "SA Posters",
+      "link": "papers/the_gesture_lives_on_a_vr_driven_puppet_performance_in_immersive_space.pdf",
       "year": 2025,
-      "illustration": "",
+      "illustration": "/images/cases/case_66.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal",
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
@@ -4311,26 +4181,24 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
             "Semantic"
           ],
           "Narrative Structure": [
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering",
-            "Generative and driving algorithms"
-          ]
-        },
-        "Who": {
+            "Generative & Orchestration algorithms"
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4351,16 +4219,16 @@
     },
     {
       "title": "Lights! Dance! Freeze!: Exploring the dance-musical filmic space using embodied search in an interactive installation",
-      "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques, Volume 6, Issue 2",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3597620",
+      "venue": "PACMCGIT",
+      "link": "papers/lights_dance_freeze_exploring_the_dance_musical_filmic_space_using_embodied_search_in_an_interactive_installation.pdf",
       "year": 2023,
-      "illustration": "",
+      "illustration": "/images/cases/case_67.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -4370,13 +4238,13 @@
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4385,14 +4253,12 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4413,23 +4279,23 @@
     },
     {
       "title": "Restoring Dunhuang Murals: Crafting Cultural Heritage Preservation Knowledge into Immersive Virtual Reality Experience Design",
-      "venue": "International Journal of Human–Computer Interaction",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2232976?needAccess=true#d1e268",
+      "venue": "IJHCI",
+      "link": "papers/restoring_dunhuang_murals_crafting_cultural_heritage_preservation_knowledge_into_immersive_virtual_reality_experience_design.pdf",
       "year": 2023,
-      "illustration": "",
+      "illustration": "/images/cases/case_68.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Auditory"
           ],
           "Body Engagement Scale": [
@@ -4438,8 +4304,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4449,15 +4315,13 @@
             "Linear",
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4482,15 +4346,15 @@
     {
       "title": "Generating Embodied Storytelling and Interactive Experience of China Intangible Cultural Heritage “Hua'er” in Virtual Reality",
       "venue": "CHI EA",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3491101.3519761",
+      "link": "papers/generating_embodied_storytelling_and_interactive_experience_of_china_intangible_cultural_heritage_huaer_in_virtual_reality.pdf",
       "year": 2022,
-      "illustration": "",
+      "illustration": "/images/cases/case_69.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
@@ -4502,13 +4366,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Semantic"
@@ -4516,15 +4380,13 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4548,15 +4410,15 @@
     {
       "title": "Programming moves: Design and evaluation of applying embodied interaction in virtual environments to enhance computational thinking in middle school students",
       "venue": "IEEE VR",
-      "link": "https://ieeexplore.ieee.org/abstract/document/7504696",
+      "link": "papers/programming_moves_design_and_evaluation_of_applying_embodied_interaction_in_virtual_environments_to_enhance_computational_thinking_in_middle_school_students.pdf",
       "year": 2016,
-      "illustration": "",
+      "illustration": "/images/cases/case_70.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static",
             "Dynamic"
           ]
@@ -4568,13 +4430,13 @@
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Representor"
           ],
-          "Agent": [
-            "Virtual"
+          "Agency": [
+            "Mediated/computational agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4582,17 +4444,15 @@
           ],
           "Narrative Structure": [
             "User Directed",
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback",
             "Presentation & Rendering"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4615,22 +4475,22 @@
     {
       "title": "MarioChart: Autonomous Tangibles as Active Proxy Interfaces for Embodied Casual Data Exploration",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3772318.3791372",
+      "link": "papers/mariochart_autonomous_tangibles_as_active_proxy_interfaces_for_embodied_casual_data_exploration.pdf",
       "year": 2026,
-      "illustration": "",
+      "illustration": "/images/cases/case_71.png",
       "tags": {
         "What": {
           "Data Origin": [
             "External"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Static"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
@@ -4639,8 +4499,8 @@
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Quantitative",
@@ -4648,16 +4508,14 @@
           ],
           "Narrative Structure": [
             "User Directed",
-            "Random"
+            "Random-access"
           ],
-          "Technical Functions": [
-            "Data Sensing & Acquisition",
+          "Technical Support": [
+            "Data Sensing & Capture",
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Single"
+            "Single user"
           ]
         },
         "Why": {
@@ -4681,33 +4539,33 @@
     {
       "title": "From Squishing to Meaning: Exploring Data Physicalization Through Children's Embodied Experiences",
       "venue": "CHI",
-      "link": "https://dl.acm.org/doi/10.1145/3772318.3791846",
+      "link": "papers/from_squishing_to_meaning_exploring_data_physicalization_through_childrens_embodied_experiences.pdf",
       "year": 2026,
-      "illustration": "",
+      "illustration": "/images/cases/case_72.png",
       "tags": {
         "What": {
           "Data Origin": [
             "Internal"
           ],
-          "Data Tense": [
+          "Data Dynamics": [
             "Dynamic"
           ]
         },
         "How": {
           "Sensory Channels": [
             "Visual",
-            "Touch",
+            "Haptic",
             "Kinesthetic"
           ],
           "Body Engagement Scale": [
             "Micro-interaction",
-            "Full-body"
+            "Full-body engagement"
           ],
           "Body Role": [
             "Controller"
           ],
-          "Agent": [
-            "Physical"
+          "Agency": [
+            "Direct human agency"
           ],
           "Mapping Strategy": [
             "Generative",
@@ -4717,13 +4575,11 @@
           "Narrative Structure": [
             "User Directed"
           ],
-          "Technical Functions": [
+          "Technical Support": [
             "Interaction & Feedback"
-          ]
-        },
-        "Who": {
+          ],
           "User Scale": [
-            "Multi"
+            "Multiple users"
           ]
         },
         "Why": {
@@ -4752,7 +4608,7 @@
         "Internal",
         "External"
       ],
-      "Data Tense": [
+      "Data Dynamics": [
         "Static",
         "Dynamic"
       ]
@@ -4760,23 +4616,23 @@
     "How": {
       "Sensory Channels": [
         "Visual",
-        "Touch",
+        "Haptic",
         "Auditory",
         "Kinesthetic",
-        "Interoception"
+        "Affective experience"
       ],
       "Body Engagement Scale": [
         "Micro-interaction",
-        "Full-body",
-        "Spatial displacement"
+        "Full-body engagement",
+        "Spatial locomotion"
       ],
       "Body Role": [
         "Controller",
         "Representor"
       ],
-      "Agent": [
-        "Physical",
-        "Virtual"
+      "Agency": [
+        "Direct human agency",
+        "Mediated/computational agency"
       ],
       "Mapping Strategy": [
         "Quantitative",
@@ -4787,19 +4643,17 @@
       "Narrative Structure": [
         "Linear",
         "User Directed",
-        "Random"
+        "Random-access"
       ],
-      "Technical Functions": [
-        "Data Sensing & Acquisition",
+      "Technical Support": [
+        "Data Sensing & Capture",
         "Interaction & Feedback",
         "Presentation & Rendering",
-        "Generative and driving algorithms"
-      ]
-    },
-    "Who": {
+        "Generative & Orchestration algorithms"
+      ],
       "User Scale": [
-        "Single",
-        "Multi"
+        "Single user",
+        "Multiple users"
       ]
     },
     "Why": {
@@ -4823,7 +4677,7 @@
       "Space Scale": [
         "Desktop",
         "Room",
-        "Architectural",
+        "Building",
         "Urban"
       ]
     }

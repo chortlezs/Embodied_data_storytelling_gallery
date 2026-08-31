@@ -2,11 +2,14 @@ import React from 'react';
 import { useCaseStore } from '../store/useCaseStore';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, ExternalLink, Calendar, MapPin, Users, Target, Info } from 'lucide-react';
+import { resolveCaseLink } from '../lib/utils';
 
 export const DetailModal: React.FC = () => {
   const { selectedCase, setSelectedCase } = useCaseStore();
 
   if (!selectedCase) return null;
+
+  const caseLink = resolveCaseLink(selectedCase.link);
 
   return (
     <AnimatePresence>
@@ -57,7 +60,7 @@ export const DetailModal: React.FC = () => {
                 </div>
                 
                 <a 
-                  href={selectedCase.link}
+                  href={caseLink}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-xl font-medium transition-all shadow-lg shadow-indigo-200"
