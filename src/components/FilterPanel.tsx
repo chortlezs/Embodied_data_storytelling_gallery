@@ -4,6 +4,8 @@ import { ChevronDown, ChevronRight, Filter, RotateCcw } from 'lucide-react';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
+const CATEGORY_ORDER = ['Why', 'What', 'Where', 'How'];
+
 function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
@@ -11,6 +13,15 @@ function cn(...inputs: ClassValue[]) {
 export const FilterPanel: React.FC = () => {
   const { taxonomy, selectedTags, toggleTag, resetFilters } = useCaseStore();
   const [expandedCats, setExpandedCats] = useState<string[]>(Object.keys(taxonomy));
+  const orderedTaxonomyEntries = Object.entries(taxonomy).sort(([a], [b]) => {
+    const aIndex = CATEGORY_ORDER.indexOf(a);
+    const bIndex = CATEGORY_ORDER.indexOf(b);
+
+    if (aIndex === -1 && bIndex === -1) return a.localeCompare(b);
+    if (aIndex === -1) return 1;
+    if (bIndex === -1) return -1;
+    return aIndex - bIndex;
+  });
 
   const toggleCat = (cat: string) => {
     setExpandedCats(prev => 
@@ -35,7 +46,7 @@ export const FilterPanel: React.FC = () => {
       </div>
 
       <div className="flex-1">
-        {Object.entries(taxonomy).map(([mainCat, subGroups]) => (
+        {orderedTaxonomyEntries.map(([mainCat, subGroups]) => (
           <div key={mainCat} className="border-b border-slate-100">
             <button 
               onClick={() => toggleCat(mainCat)}

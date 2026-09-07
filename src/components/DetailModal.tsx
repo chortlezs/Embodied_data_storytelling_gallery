@@ -4,12 +4,23 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X, ExternalLink, Calendar, MapPin, Users, Target, Info } from 'lucide-react';
 import { resolveCaseLink } from '../lib/utils';
 
+const CATEGORY_ORDER = ['Why', 'What', 'Where', 'How'];
+
 export const DetailModal: React.FC = () => {
   const { selectedCase, setSelectedCase } = useCaseStore();
 
   if (!selectedCase) return null;
 
   const caseLink = resolveCaseLink(selectedCase.link);
+  const orderedTagEntries = Object.entries(selectedCase.tags).sort(([a], [b]) => {
+    const aIndex = CATEGORY_ORDER.indexOf(a);
+    const bIndex = CATEGORY_ORDER.indexOf(b);
+
+    if (aIndex === -1 && bIndex === -1) return a.localeCompare(b);
+    if (aIndex === -1) return 1;
+    if (bIndex === -1) return -1;
+    return aIndex - bIndex;
+  });
 
   return (
     <AnimatePresence>
@@ -72,7 +83,7 @@ export const DetailModal: React.FC = () => {
 
               {/* Right Column: Taxonomy Tags */}
               <div className="space-y-6">
-                {Object.entries(selectedCase.tags).map(([mainCat, subGroups]) => {
+                {orderedTagEntries.map(([mainCat, subGroups]) => {
                   // Check if any subGroup has tags
                   const hasTags = Object.values(subGroups).some(tags => tags.length > 0);
                   if (!hasTags) return null;
